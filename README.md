@@ -109,7 +109,7 @@ Reversible gates maintain a one-to-one mapping between inputs and outputs, ensur
 
 ## Tools & Environment
 
-* Digital circuit simulation tools (as per academic setup)
+* Digital circuit simulation tool ( CADENCE- Virtuso )
 * Waveform analysis for functional verification
 * Power and delay extracted from simulation results
 
